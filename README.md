@@ -18,3 +18,10 @@ _*Forúm recomendado:*_ https://gist.github.com/fcoury/da7f32984e90427f1966f4675
           
 _*Se ainda assim estiver querendo mais informações, irei deixar um repositório que vai ajudar bastante:*_
   https://github.com/AdiulesonArlen/HuskyBlizzard-RemapingKeys
+
+## Como rodar automaticamente o script do AutoHotKey ?  
+
+1- Win + R
+2- digite shell:startup
+3- Crie um atalho do Script e adicione na pasta 
+4- Agora o Script vai iniciar automaticamente
