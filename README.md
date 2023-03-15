@@ -21,7 +21,9 @@ _*Se ainda assim estiver querendo mais informações, irei deixar um repositóri
 
 ## Como rodar automaticamente o script do AutoHotKey ?  
 
+  ```
 1- Win + R
 2- digite shell:startup
 3- Crie um atalho do Script e adicione na pasta 
 4- Agora o Script vai iniciar automaticamente
+  ```
